@@ -147,7 +147,7 @@ body.fullscreen-enabled #fullscreenToggle {
 
 #autorotateToggle {
   display: block;
-  position: absolute;
+  
   top: 0;
   right: 0;
   width: 40px;
@@ -475,6 +475,19 @@ body.single-scene #sceneList, body.single-scene #sceneListToggle {
   transition: width 0.3s ease-in-out,
               border-radius 0.3s ease-in-out;
 }
+.header img {
+  float: left;
+  width: 10%;
+  height: 10%;
+  background: #555;
+}
+
+.header h1 {
+  position: relative;
+  top: 18px;
+  left: 10px;
+}
+
 
 .desktop .info-hotspot.visible .info-hotspot-header,
 .desktop.no-touch .info-hotspot.visible .info-hotspot-header:hover {
