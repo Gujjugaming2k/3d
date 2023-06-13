@@ -1,8 +1,8 @@
 var APP_DATA = {
   "scenes": [
     {
-      "id": "0-final-matic-snow-matic-steel--matic-hl-1origrgb",
-      "name": "FINAL MATIC SNOW MATIC STEEL  MATIC HL-1.origRGB",
+      "id": "0-final-kitchen-1-1--strip-sparkle-black-strip-sparkle-whiteorigrgb",
+      "name": "FINAL KITCHEN 1 1  STRIP SPARKLE BLACK STRIP SPARKLE WHITE.origRGB",
       "levels": [
         {
           "tileSize": 256,
